@@ -6,6 +6,7 @@ chardet==4.0.0
 discord==1.7.3
 discord.py==1.7.3
 dnspython==2.2.1
+EB==0.1.5
 idna==3.4
 multidict==6.0.2
 pycodestyle==2.9.1
