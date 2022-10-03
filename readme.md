@@ -2,4 +2,4 @@
 ## Advanced Discord Bot
 
 This is a discord bot connected to MongoDB and AWS Elastic Beanstalk
-If you'd like to know how I built it, check out my article [here]()
+If you'd like to know how I built it, check out my article [here](https://medium.com/@danielkoganx/how-to-create-an-advanced-discord-bot-using-mongodb-aws-and-docker-eb2d2f21c888)
